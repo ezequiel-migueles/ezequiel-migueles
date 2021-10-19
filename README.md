@@ -16,7 +16,6 @@ Fullstack web dev
 - Frontend (webpage design and JS)
 - Automated tests (including TDD, e2e)
 - Data visualization
-- And more specifically, the tools I use.
 
 ### I’m currently learning more about 🌱
 
