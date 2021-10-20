@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ezequiel
 #### I am Full Stack Web Developer
 
->If you´re looking at this Readme, maybe you want to know something else about me or what I do, or you´re bored. So let´s go with that and let me present myself!
+>If you're looking at this Readme, perhaps you may want to know more details about me or what I am capable/Able to do, or perhaps you are just bored :slightly_smiling_face: So let's get hands on that and let me introduce myself.
 
 I'm a Junior Software Engineer in Spain, currently coursing a Full Stack Web Development Bootcamp. I build a lot of projects for fun with React, JavaScript, NodeJS and more. A big fan of material designs and clean code.
 
