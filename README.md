@@ -27,14 +27,14 @@ Fullstack web dev
 
 #### Top Languages 
 
-<a href="https://github.com/IchikonWD">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchikonWD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+<a href="https://github.com/Ichicodes">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichicodes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     title="Top languages" alt="Top languages" /></a>
     
 #### GitHub Stats
 
-<a href="https://github.com/IchikonWD">
-<img src="https://github-readme-stats.vercel.app/api?username=IchikonWD&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+<a href="https://github.com/Ichicodes">
+<img src="https://github-readme-stats.vercel.app/api?username=Ichicodes&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
     title="Profile stats" alt="Profile stats" /></a>
 
 ### Projects 💼
