@@ -5,6 +5,8 @@
 
 I'm a Software Engineer based in Spain. I build a lot of projects for fun with React, JavaScript, NodeJS and more. A big fan of clean code and best practices.
 
+Sometimes I even cosplay as a SysAdmin and have fun with my own self hosted services!
+
 ### Skills 🎓
 
 My experience covers these topics:
