@@ -28,18 +28,6 @@ DevOps Engineer
 - React Native
 - Swift
 
-#### Top Languages 
-
-<a href="https://github.com/Ichicodes">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichicodes&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Top languages" alt="Top languages" /></a>
-    
-#### GitHub Stats
-
-<a href="https://github.com/Ichicodes">
-<img src="https://github-readme-stats.vercel.app/api?username=Ichicodes&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-    title="Profile stats" alt="Profile stats" /></a>
-
 ### Certifications
 
 <a href="https://www.credly.com/badges/3224ee9c-48ec-485d-8385-a0f29164bc51/public_url">
