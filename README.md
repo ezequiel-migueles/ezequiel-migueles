@@ -3,7 +3,7 @@
 
 >If you're looking at this Readme, perhaps you may want to know more details about me or what I am capable/Able to do, or perhaps you are just bored :slightly_smiling_face: So let's get hands on that and let me introduce myself.
 
-I'm a Junior Software Engineer in Spain, currently working as a Full Stack Web Developer. I build a lot of projects for fun with React, JavaScript, NodeJS and more. A big fan of material design and clean code.
+I'm a Software Engineer in Spain. I build a lot of projects for fun with React, JavaScript, NodeJS and more. A big fan of material design and clean code.
 
 ### Skills 🎓
 
@@ -38,3 +38,9 @@ Fullstack web dev
     title="Profile stats" alt="Profile stats" /></a>
 
 ### Projects 💼
+
+### Certifications
+
+<a href="https://www.credly.com/badges/3224ee9c-48ec-485d-8385-a0f29164bc51/public_url">
+<img src="https://github.com/ichicodes/Ichicodes/assets/74495493/e64872c2-7c5f-4a58-9906-1f9f8b9da486"
+    title="aws-knowledge-cloud-essentials" alt="aws-knowledge-cloud-essentials" /></a>
