@@ -32,6 +32,13 @@ DevOps Engineer
 
 ### Certifications
 
+![meta-back-end-developer-certificate]()
+
+
+<a href="https://www.credly.com/badges/6ec91415-6301-4564-8b52-c15084ebb03b/public_url">
+<img src="https://github.com/ichibytes/Ichibytes/assets/74495493/5bf3e1d1-190d-44e4-a1d6-1721cce90be7"
+    title="meta-back-end-developer" alt="meta-back-end-developer" /></a> 
+
 <a href="https://www.credly.com/badges/3224ee9c-48ec-485d-8385-a0f29164bc51/public_url">
 <img src="https://github.com/ichicodes/Ichicodes/assets/74495493/e64872c2-7c5f-4a58-9906-1f9f8b9da486"
     title="aws-knowledge-cloud-essentials" alt="aws-knowledge-cloud-essentials" /></a> 
