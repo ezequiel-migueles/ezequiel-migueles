@@ -32,9 +32,6 @@ DevOps Engineer
 
 ### Certifications
 
-![meta-back-end-developer-certificate]()
-
-
 <a href="https://www.credly.com/badges/6ec91415-6301-4564-8b52-c15084ebb03b/public_url">
 <img src="https://github.com/ichibytes/Ichibytes/assets/74495493/5bf3e1d1-190d-44e4-a1d6-1721cce90be7"
     title="meta-back-end-developer" alt="meta-back-end-developer" /></a> 
