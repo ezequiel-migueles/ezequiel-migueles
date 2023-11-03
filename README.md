@@ -38,7 +38,11 @@ DevOps Engineer
 
 <a href="https://www.credly.com/badges/9816fce4-a6bf-490e-84b6-201512c87a3b/public_url">
 <img src="https://github.com/ichibytes/Ichibytes/assets/74495493/c9fe45ef-799c-4a7f-b331-a47d88bce6cb"
-    title="meta-front-end-developer" alt="meta-front-end-developer" /></a> 
+    title="meta-front-end-developer" alt="meta-front-end-developer" /></a>
+
+<a href="https://www.credly.com/badges/6ac60847-5902-4bb1-8f39-7a00a9e4a78c/public_url">
+<img src="https://github.com/ichibytes/Ichibytes/assets/74495493/3864a298-809c-4dcd-b924-e3d5385e28fc"
+    title="meta-full-stack-developer" alt="meta-full-stack-developer" /></a> 
 
 <a href="https://www.credly.com/badges/3224ee9c-48ec-485d-8385-a0f29164bc51/public_url">
 <img src="https://github.com/ichicodes/Ichicodes/assets/74495493/e64872c2-7c5f-4a58-9906-1f9f8b9da486"
