@@ -8,6 +8,8 @@ I'm a Software Engineer based in Spain with a passion for building projects and 
 
 I'm currently working in DXC Technology as a Professional Product Developer.
 
+![](https://komarev.com/ghpvc/?username=ichibytes)
+
 ## Experience
 
 ### Fullstack Web Developer
@@ -48,3 +50,4 @@ Feel free to reach out to me for collaborations or discussions:
 - LinkedIn: [Ezequiel Migueles](https://www.linkedin.com/in/ezequielmigueles/)
 
 Let's connect and explore the world of software development together!
+
