@@ -1,6 +1,4 @@
-# Hi there 👋, my name is Ezequiel
-
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+<img src="https://github.com/ichibytes/Ichibytes/assets/74495493/5d398d66-34b4-46eb-9a22-294e9b722082" width="100%" height="100%">
 
 ## About Me
 
