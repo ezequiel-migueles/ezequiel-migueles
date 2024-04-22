@@ -41,6 +41,7 @@ Here are some of my certifications:
 [![Meta Android Developer Certificate](https://github.com/ichibytes/Ichibytes/assets/74495493/b251b7ea-c7a8-4f26-99f9-76947c00bc53)](https://www.credly.com/badges/fba9e4dc-2283-4e65-8f47-23dc7021afe0/public_url)
 [![Meta iOS Developer Certificate](https://github.com/ichibytes/Ichibytes/assets/74495493/ad605303-8c19-4308-9f61-98b5fccd8fa0)](https://www.credly.com/badges/7ab9e20d-c592-4236-894e-115017a7453d/public_url)
 [![Meta Generalist Software Engineer Certificate](https://github.com/ichibytes/Ichibytes/assets/74495493/2fae5296-fbab-4b51-93a1-418f4fb79cee)](https://www.credly.com/badges/014ade6f-c57e-4d9f-8f1a-b644205f6d66/public_url)
+[![IBM Full Stack Software Developer Professional Certificate](https://github.com/ichibytes/Ichibytes/assets/74495493/fc356b6d-d31d-4798-a40a-d8977395ced6)](https://www.credly.com/badges/6a7cf684-7a4e-4839-97b2-145a05eace4d/public_url)
 [![AWS Knowledge Cloud Essentials](https://github.com/ichicodes/Ichicodes/assets/74495493/e64872c2-7c5f-4a58-9906-1f9f8b9da486)](https://www.credly.com/badges/3224ee9c-48ec-485d-8385-a0f29164bc51/public_url)
 [![AWS Cloud Practitioner](https://github.com/ichicodes/Ichicodes/assets/74495493/aad34d11-0969-44bf-b2a0-920594179e01)](https://www.credly.com/badges/6a7cf684-7a4e-4839-97b2-145a05eace4d/public_url)
 
