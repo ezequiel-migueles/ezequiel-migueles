@@ -4,7 +4,7 @@
 
 I'm a Software Engineer based in Spain with a passion for building projects and exploring various technologies. I thrive on creating clean and efficient code while adhering to best practices. In addition to my software engineering work, I enjoy hosting my own services.
 
-I'm currently working in DXC Technology as a Professional Product Developer.
+I'm currently working in DXC Technology as a Senior Software Engineer.
 
 ![](https://komarev.com/ghpvc/?username=ichibytes)
 
